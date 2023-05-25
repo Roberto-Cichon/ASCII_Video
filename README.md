@@ -1,7 +1,7 @@
 # ASCII Video
 
 Play any video on your terminal!
-
+- Sound included
   
 
 ## How to use?
